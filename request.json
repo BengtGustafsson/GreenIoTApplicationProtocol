@@ -1,0 +1,25 @@
+{
+    "TimeInterval": {
+        "From": "2017-03-20 00:12",
+        "To": "2017-03-21 19:31"
+    },
+    "Region": {
+        "Type": "PointRegion",
+        "Points": [
+            {
+                "Longitude": 17.64330470302075,
+                "Latitude": 59.86052004886109
+            },
+            {
+                "Longitude": 17.6474046618536,
+                "Latitude": 59.8581697576106
+            }
+        ]
+    },
+    "Dataset": "NO",
+    "Statistics": {
+        "Operation": "cNone",
+        "Interval": "cHour",
+        "GetAccuracies": false
+    }
+}

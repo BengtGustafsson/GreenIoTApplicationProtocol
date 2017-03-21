@@ -1,0 +1,21 @@
+{
+    "Status": 0,
+    "Message": "Success",
+    "FirstSampleTime": "",
+    "SampleInterval": 0.0,
+    "Replies": [
+        {
+            "Type": "DataReply",
+            "Position": {
+                "Longitude": 15.619298,
+                "Latitude": 58.40855
+            },
+            "Accuracy": 0.1,
+            "Data": [
+                3.335,
+                3.28,
+                3.14
+            ]
+        },
+    ]
+}
